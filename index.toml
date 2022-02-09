@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advanced-generators.toml"
+hash = "4da39bd3278c605c1c990a096634b387fb58d344abd99c0553b9ffb699d4cfca"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.toml"
 hash = "98ae13b44887565b1bf98fe20863129b00c46a2f893a5c7dff7cf696c1a0eaa7"
 metafile = true
@@ -11,6 +16,11 @@ hash = "791dd5405c644b2e7a2a7cd4844b0d9d25d1c77c2266d18dc9dca8006b19cfd9"
 metafile = true
 
 [[files]]
+file = "mods/architectury-forge.toml"
+hash = "1359be5361a4081d9f8098314dc2791076e2d5c27ce3d1cafc40207a3adc134d"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.toml"
 hash = "d81735ea37d7b854e3732891010955ff45d9ae305f998c310a223f2498d40eeb"
 metafile = true
@@ -18,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/autoreglib.toml"
 hash = "8004ed31e93fb94875533da2f8e6d546907bcbe78e179b0f9542508f70f8f333"
+metafile = true
+
+[[files]]
+file = "mods/bdlib.toml"
+hash = "18329a69d9e0b6edeb6a1b06167b18cbf2f8b79f8ebba091611cc51d7c772995"
 metafile = true
 
 [[files]]
@@ -76,6 +91,16 @@ hash = "ae819043ba81187e6dc1cd6bbbcb3acbb98494918b72feb7d0b7ecce8984d11e"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-forge.toml"
+hash = "e628b9478c9ed92e37f1f4654d03ec6dac2309b08903479b6f7cdb23d4bd545b"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.toml"
+hash = "eda6d9402dc64b9848a3843f7a6a74f16dc15a5fc584066d7d06535aee6cef23"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.toml"
 hash = "03e5156978b6321e56e6f8e965d8dcaeb6d474971dd7be766a649e06adf4f86d"
 metafile = true
@@ -108,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/jei.toml"
 hash = "3a64118ed6ba032060e77341cab5ba34b59ea42eb3408c0b024529cc27d891ee"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.toml"
+hash = "3902d1767d0211f3677b79a2eed68fd097bab574d28e7b361368687e6133fa2a"
 metafile = true
 
 [[files]]
@@ -153,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/ranged-pumps.toml"
 hash = "bb9637dc4c3df04671f079910ee393bdc88046b3d7041d76c7e758a71418fa30"
+metafile = true
+
+[[files]]
+file = "mods/scalable-cats-force.toml"
+hash = "558a05be73594284e70aea50c853a8d682f871f1f2fee7c5591c86b5b682e02a"
 metafile = true
 
 [[files]]

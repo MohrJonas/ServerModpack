@@ -1,0 +1,13 @@
+name = "Advanced Generators"
+filename = "advgenerators-1.0.0.2-mc1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3634/844/advgenerators-1.0.0.2-mc1.18.1.jar"
+hash-format = "murmur2"
+hash = "2627974286"
+
+[update]
+[update.curseforge]
+file-id = 3634844
+project-id = 223622

@@ -1,0 +1,13 @@
+name = "Scalable Cat's Force"
+filename = "ScalableCatsForce-2.13.8-build-2-with-library.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3634/756/ScalableCatsForce-2.13.8-build-2-with-library.jar"
+hash-format = "murmur2"
+hash = "30627938"
+
+[update]
+[update.curseforge]
+file-id = 3634756
+project-id = 320926
