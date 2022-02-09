@@ -1,0 +1,13 @@
+name = "Culinary Construct"
+filename = "culinaryconstruct-forge-1.18.1-4.2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3625/41/culinaryconstruct-forge-1.18.1-4.2.0.1.jar"
+hash-format = "murmur2"
+hash = "3678314654"
+
+[update]
+[update.curseforge]
+file-id = 3625041
+project-id = 296676

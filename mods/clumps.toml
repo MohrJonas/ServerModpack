@@ -1,0 +1,13 @@
+name = "Clumps"
+filename = "Clumps-forge-1.18-8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3542/509/Clumps-forge-1.18-8.0.1.jar"
+hash-format = "murmur2"
+hash = "3694131519"
+
+[update]
+[update.curseforge]
+file-id = 3542509
+project-id = 256717

@@ -1,0 +1,13 @@
+name = "Cyclic"
+filename = "Cyclic-1.18.1-1.6.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3640/911/Cyclic-1.18.1-1.6.11.jar"
+hash-format = "murmur2"
+hash = "4279728221"
+
+[update]
+[update.curseforge]
+file-id = 3640911
+project-id = 239286

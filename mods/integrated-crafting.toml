@@ -1,0 +1,13 @@
+name = "Integrated Crafting"
+filename = "IntegratedCrafting-1.18.1-1.0.21.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3631/808/IntegratedCrafting-1.18.1-1.0.21.jar"
+hash-format = "murmur2"
+hash = "1967161287"
+
+[update]
+[update.curseforge]
+file-id = 3631808
+project-id = 287357
