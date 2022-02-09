@@ -226,11 +226,6 @@ hash = "b615e9c781734c53510b917752cb87e2137366f62e98a0f8c9f4112ef29251ff"
 metafile = true
 
 [[files]]
-file = "mods/silents-gems-chaos.toml"
-hash = "b4f847416df453a85de43bc02d47ab7a5426407590db0205307730b72b43a2c4"
-metafile = true
-
-[[files]]
 file = "mods/silents-gems.toml"
 hash = "ec35a83f6b2a383c8bd816f013341a3a3c43aa6fd678b3f8ebda37bf2344bbf5"
 metafile = true
