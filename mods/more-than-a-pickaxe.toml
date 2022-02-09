@@ -1,0 +1,13 @@
+name = "More Than A Pickaxe"
+filename = "MoreThanAPickaxe-1.18.1-0.1.6b.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3616/831/MoreThanAPickaxe-1.18.1-0.1.6b.jar"
+hash-format = "murmur2"
+hash = "1397582899"
+
+[update]
+[update.curseforge]
+file-id = 3616831
+project-id = 306992

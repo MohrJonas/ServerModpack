@@ -1,0 +1,13 @@
+name = "Silent's Gems: Chaos"
+filename = "silents-gems-chaos-1.18.1-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3564/378/silents-gems-chaos-1.18.1-0.3.0.jar"
+hash-format = "murmur2"
+hash = "2956962506"
+
+[update]
+[update.curseforge]
+file-id = 3564378
+project-id = 532463

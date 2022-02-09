@@ -1,0 +1,13 @@
+name = "SurvivalPlus"
+filename = "SurvivalPlus-1.18.1-0.1.6b.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3616/800/SurvivalPlus-1.18.1-0.1.6b.jar"
+hash-format = "murmur2"
+hash = "4248626868"
+
+[update]
+[update.curseforge]
+file-id = 3616800
+project-id = 295008

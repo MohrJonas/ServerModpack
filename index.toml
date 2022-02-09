@@ -31,6 +31,11 @@ hash = "8004ed31e93fb94875533da2f8e6d546907bcbe78e179b0f9542508f70f8f333"
 metafile = true
 
 [[files]]
+file = "mods/basic-nether-ores.toml"
+hash = "80bcbe73bc05af25527ead79f30a999864a68b96b40c032a77e6f7227040a242"
+metafile = true
+
+[[files]]
 file = "mods/bdlib.toml"
 hash = "18329a69d9e0b6edeb6a1b06167b18cbf2f8b79f8ebba091611cc51d7c772995"
 metafile = true
@@ -47,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.toml"
-hash = "65645db9ba909c2bf9bc81c066bead8d858a9c99297f178ae1c42b7b3979f9a2"
+hash = "b9b540886a354f963f3984bb6499ad6a2c245c11ba086ffdafffc940f71a3451"
 metafile = true
 
 [[files]]
@@ -57,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.toml"
-hash = "8d4415ab4849ee664fbff1230cab9c5cd9f9172b628d75a3c6996974c057cd96"
+hash = "95c61d4c8a39704c6488ed1e7c583dcfbb52caf6138c8ace13a1bf88c1f60856"
 metafile = true
 
 [[files]]
@@ -106,6 +111,11 @@ hash = "03e5156978b6321e56e6f8e965d8dcaeb6d474971dd7be766a649e06adf4f86d"
 metafile = true
 
 [[files]]
+file = "mods/gobber.toml"
+hash = "aae99a9f1ababcb138d93b03b4a22a53df665c3c11f0e2783040b89ec777fc88"
+metafile = true
+
+[[files]]
 file = "mods/immersive-engineering.toml"
 hash = "b81ccd0756caffad2b095db5df3b2db82f531e5d97c8f1caed40bb74670eb53e"
 metafile = true
@@ -132,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "3a64118ed6ba032060e77341cab5ba34b59ea42eb3408c0b024529cc27d891ee"
+hash = "dc14adeef654f9ae6080c16997d844ab03ab515b91ff1958d2443df5ed4a47d0"
 metafile = true
 
 [[files]]
@@ -142,12 +152,17 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.toml"
-hash = "ef8e0286575cca1a42a938bba230579262a90c762ba1f8bb324dc9680211a05b"
+hash = "f0066c8adf00afc799fb892fb80c684d56648e222a32f312054bc60de98af285"
 metafile = true
 
 [[files]]
 file = "mods/mantle.toml"
 hash = "fd936ed0fb6054be671ed2e6ae8c56884871ed4469e241a0089b1923ec82986c"
+metafile = true
+
+[[files]]
+file = "mods/more-than-a-pickaxe.toml"
+hash = "254e609d7898606c49dad3c845455b60c2c82b064d1f750ac44d96deeea0de16"
 metafile = true
 
 [[files]]
@@ -196,8 +211,38 @@ hash = "0359ef9811a0613b615bb7442a2dbf24021604acf1fc8cf4e0c7037e494ed521"
 metafile = true
 
 [[files]]
+file = "mods/silent-gear.toml"
+hash = "dc6326c2212d036284befb54f3c5c7653e46baca27c727819a6b2a12f43f07d3"
+metafile = true
+
+[[files]]
+file = "mods/silent-lib.toml"
+hash = "b615e9c781734c53510b917752cb87e2137366f62e98a0f8c9f4112ef29251ff"
+metafile = true
+
+[[files]]
+file = "mods/silents-gems-chaos.toml"
+hash = "b4f847416df453a85de43bc02d47ab7a5426407590db0205307730b72b43a2c4"
+metafile = true
+
+[[files]]
+file = "mods/silents-gems.toml"
+hash = "ec35a83f6b2a383c8bd816f013341a3a3c43aa6fd678b3f8ebda37bf2344bbf5"
+metafile = true
+
+[[files]]
 file = "mods/simple-discord-rich-presence.toml"
 hash = "7cfde13931a56c0c4fd077f143c9f7c48ae315a8493e4372e008b064425f4dde"
+metafile = true
+
+[[files]]
+file = "mods/simplecore-api.toml"
+hash = "c0b734ffdaa7f9c901801ae366723b9834777e0ade45a38e3f17c64e359fb0f1"
+metafile = true
+
+[[files]]
+file = "mods/simpleores.toml"
+hash = "ab8ed2706fe63b082f9e66ffa42c5ebe05ceed2b48a30c9c21128d76326b92cf"
 metafile = true
 
 [[files]]
@@ -208,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.toml"
 hash = "9a4a91154667b914f076a4441c109402687bfa65069de96249a0884f5654191d"
+metafile = true
+
+[[files]]
+file = "mods/survivalplus.toml"
+hash = "c273e9940f1b61151e49336e9db3924d8c457a707ce068940b618f13fda91c32"
 metafile = true
 
 [[files]]

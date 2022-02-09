@@ -1,0 +1,13 @@
+name = "Silent Gear"
+filename = "silent-gear-1.18.1-2.8.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3639/667/silent-gear-1.18.1-2.8.8.jar"
+hash-format = "murmur2"
+hash = "191196887"
+
+[update]
+[update.curseforge]
+file-id = 3639667
+project-id = 297039
