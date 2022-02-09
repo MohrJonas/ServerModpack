@@ -161,6 +161,11 @@ hash = "fd936ed0fb6054be671ed2e6ae8c56884871ed4469e241a0089b1923ec82986c"
 metafile = true
 
 [[files]]
+file = "mods/modular-routers.toml"
+hash = "2b942b07e4201a0fe8141a698069bd82fbbc518c53024ce32d4b2c851ff00477"
+metafile = true
+
+[[files]]
 file = "mods/more-than-a-pickaxe.toml"
 hash = "254e609d7898606c49dad3c845455b60c2c82b064d1f750ac44d96deeea0de16"
 metafile = true

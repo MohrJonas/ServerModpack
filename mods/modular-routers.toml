@@ -1,0 +1,13 @@
+name = "Modular Routers"
+filename = "modular-routers-1.18.1-9.0.2-85.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3621/743/modular-routers-1.18.1-9.0.2-85.jar"
+hash-format = "murmur2"
+hash = "2502041602"
+
+[update]
+[update.curseforge]
+file-id = 3621743
+project-id = 250294
