@@ -1,13 +1,13 @@
 name = "SimpleOres"
-filename = "SimpleOres2-1.18.1-4.0.0.0.jar"
+filename = "SimpleOres2-1.18.1-4.0.0.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3620/790/SimpleOres2-1.18.1-4.0.0.0.jar"
+url = "https://edge.forgecdn.net/files/3646/882/SimpleOres2-1.18.1-4.0.0.2.jar"
 hash-format = "murmur2"
-hash = "2958753563"
+hash = "449277759"
 
 [update]
 [update.curseforge]
-file-id = 3620790
+file-id = 3646882
 project-id = 226138

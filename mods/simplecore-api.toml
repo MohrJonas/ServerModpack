@@ -1,13 +1,13 @@
 name = "SimpleCore API"
-filename = "SimpleCoreLib-1.18.1-4.0.0.2.jar"
+filename = "SimpleCoreLib-1.18.1-4.0.0.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3620/779/SimpleCoreLib-1.18.1-4.0.0.2.jar"
+url = "https://edge.forgecdn.net/files/3646/317/SimpleCoreLib-1.18.1-4.0.0.4.jar"
 hash-format = "murmur2"
-hash = "3117707744"
+hash = "2776859219"
 
 [update]
 [update.curseforge]
-file-id = 3620779
+file-id = 3646317
 project-id = 226136

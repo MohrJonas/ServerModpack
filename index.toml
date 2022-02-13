@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/aquaculture.toml"
-hash = "791dd5405c644b2e7a2a7cd4844b0d9d25d1c77c2266d18dc9dca8006b19cfd9"
+hash = "7cd7758e1001a1725fcfce6870bc9ad29bf24efc14beb97e8a158c0b66ba4749"
 metafile = true
 
 [[files]]
@@ -27,7 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/autoreglib.toml"
-hash = "8004ed31e93fb94875533da2f8e6d546907bcbe78e179b0f9542508f70f8f333"
+hash = "aacd31ac9e9e1b48b684ec97e21901c85799cec3e132803f16d0ae5ced247125"
+metafile = true
+
+[[files]]
+file = "mods/ballistix.toml"
+hash = "c69ffc05d93c6c47024f90e6521b2bf8a32eb161f0e7f0e3b5982c91fa0febac"
 metafile = true
 
 [[files]]
@@ -37,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/bdlib.toml"
-hash = "18329a69d9e0b6edeb6a1b06167b18cbf2f8b79f8ebba091611cc51d7c772995"
+hash = "3e90d35ecd3cb1241c7198bd9c1559713297111bd17f294d35c24127a563be8a"
 metafile = true
 
 [[files]]
@@ -77,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclic.toml"
-hash = "fa56f8c354503000ecbaa0b88a00428de7e78c70916763dd2438779c59031593"
+hash = "63e074ea3bbea4ce655f3fc59ff7a3c1bb3a5923b47d269164b2967a62bc1120"
 metafile = true
 
 [[files]]
@@ -88,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/dungeon-crawl.toml"
 hash = "19fd19e30e8c5e4fd9cfb110dd71689456599787cf8800d0beee9e85c7956f2e"
+metafile = true
+
+[[files]]
+file = "mods/electrodynamics.toml"
+hash = "27c019f3640c69310563aab7cdfb017821fb4ea3793fccaf2ab477c868515fe7"
 metafile = true
 
 [[files]]
@@ -127,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-dynamics.toml"
-hash = "8bc1670c47a39e0c40317fdfc8352fe1aba210cdb43f0845168eba8802c32e61"
+hash = "9981f372f1a22338edc4602ce853868193e351315ec5696b72d95b21c25aa6a0"
 metafile = true
 
 [[files]]
@@ -142,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "dc14adeef654f9ae6080c16997d844ab03ab515b91ff1958d2443df5ed4a47d0"
+hash = "7638f3bbc2c7076e448507ec9bbb4be6cba505c9c4f0c5ac9745f0301857f2af"
 metafile = true
 
 [[files]]
@@ -197,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.toml"
-hash = "815db4f590a854e80a91ccb4a79800669f12fb86c397174490df5bfc48df2141"
+hash = "49c41da1622d8d1bd566e04470cd915327b87113ab5bce4eebb81b6e4690344d"
 metafile = true
 
 [[files]]
@@ -237,12 +247,12 @@ metafile = true
 
 [[files]]
 file = "mods/simplecore-api.toml"
-hash = "c0b734ffdaa7f9c901801ae366723b9834777e0ade45a38e3f17c64e359fb0f1"
+hash = "395fa73077be046165034746677839947f1379b0ac378f10f65375169c14a771"
 metafile = true
 
 [[files]]
 file = "mods/simpleores.toml"
-hash = "ab8ed2706fe63b082f9e66ffa42c5ebe05ceed2b48a30c9c21128d76326b92cf"
+hash = "1634effaa92a779218f9ab6ddcadccb8e6def9300e276dd675df432672575aaf"
 metafile = true
 
 [[files]]
