@@ -186,6 +186,11 @@ hash = "5a3d708bcbc76a60f79548a795b73d73c698c39249eba521aacebc9b3b49dcd2"
 metafile = true
 
 [[files]]
+file = "mods/omnipotent-card.toml"
+hash = "75234d2ca8ec8b8d45159602b079336fbbf0c28d47b2ab3a32f8f4584aae2a9a"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.toml"
 hash = "4dd247cedcff71ceb52fdcf09b6c1cc73a677e89c44e08991f3c76c66332f60c"
 metafile = true
