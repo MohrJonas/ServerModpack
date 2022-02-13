@@ -281,6 +281,11 @@ hash = "15f40f96c17a0fdf11e8bcba9bf9e50274a13d349ec574fb1fe844e2fbe110a1"
 metafile = true
 
 [[files]]
+file = "mods/the-one-probe.toml"
+hash = "373dd4df9f8c7f7d5ff47083845884eafd3a6f293b99021e8b2d8190590aa6a7"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-construct.toml"
 hash = "891f8e0308b277247d66f2c2ba5e30745daef90f0ad567815d2ca47ddf7e7232"
 metafile = true
