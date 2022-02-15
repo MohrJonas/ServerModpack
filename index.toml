@@ -101,6 +101,11 @@ hash = "27c64f162fe5044b6187ebc17f7ffb85fc29a6974a75dd47783214f8c681fa37"
 metafile = true
 
 [[files]]
+file = "mods/dusk.toml"
+hash = "ad681efc65582863f3307999217fb4d4fed08832eaa728c0d0ac6ccab4192b75"
+metafile = true
+
+[[files]]
 file = "mods/electrodynamics.toml"
 hash = "27c019f3640c69310563aab7cdfb017821fb4ea3793fccaf2ab477c868515fe7"
 metafile = true
@@ -323,4 +328,14 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.toml"
 hash = "137bd091c67463f9b935771ffa80f92f15f37345c061ca6434428f0bacbf38d7"
+metafile = true
+
+[[files]]
+file = "mods/torohealth-damage-indicators.toml"
+hash = "0617b2538afc3c540a22fdc1469fe36a2c0b2c99dacbe9f1058cb6977c964b9f"
+metafile = true
+
+[[files]]
+file = "mods/true-darkness.toml"
+hash = "d74ba89a0b79c116c1797ef7922e75bfc66d3d29c7d0ce33f8113277e66d52fd"
 metafile = true

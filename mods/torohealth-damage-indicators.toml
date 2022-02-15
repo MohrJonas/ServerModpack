@@ -1,0 +1,13 @@
+name = "ToroHealth Damage Indicators"
+filename = "torohealth-1.18-forge-2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3556/931/torohealth-1.18-forge-2.jar"
+hash-format = "murmur2"
+hash = "3017999515"
+
+[update]
+[update.curseforge]
+file-id = 3556931
+project-id = 245733
