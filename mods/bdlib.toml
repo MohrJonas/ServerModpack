@@ -1,13 +1,13 @@
 name = "BdLib"
-filename = "bdlib-1.18.0.7-mc1.18.1.jar"
+filename = "bdlib-1.18.1.8-mc1.18.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3646/164/bdlib-1.18.0.7-mc1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3648/245/bdlib-1.18.1.8-mc1.18.1.jar"
 hash-format = "murmur2"
-hash = "3621408046"
+hash = "2709068202"
 
 [update]
 [update.curseforge]
-file-id = 3646164
+file-id = 3648245
 project-id = 70496

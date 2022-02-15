@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.toml"
-hash = "98ae13b44887565b1bf98fe20863129b00c46a2f893a5c7dff7cf696c1a0eaa7"
+hash = "deb2e8d6b6a503e62e9f64b49a9168897d8b4d32e8f60d9a1b6bbe72991a336c"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.toml"
-hash = "d81735ea37d7b854e3732891010955ff45d9ae305f998c310a223f2498d40eeb"
+hash = "013467aeb9de036e269a99f8d406d135397fc8d3794fef84b1f7ba17967f1fd7"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/bdlib.toml"
-hash = "3e90d35ecd3cb1241c7198bd9c1559713297111bd17f294d35c24127a563be8a"
+hash = "a733de152a79b416cbbe31d8263a7c2e5af3bf3602b21cf2b297ffe7087e06ed"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.toml"
-hash = "95c61d4c8a39704c6488ed1e7c583dcfbb52caf6138c8ace13a1bf88c1f60856"
+hash = "4d27d5cdc04e2c087101a815b8f1c7fef4466c76fedf4aaba997f8c92fe49d1b"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.toml"
-hash = "128a5c22136349de92e6b1ff30e9127f6d3b9f9d1a4fdf7e1dbe860cb2dfb73b"
+hash = "6e16e1562f768fba746fa6b00fbb6f3cee8c6f17d8a8f3e2db25c22f84036208"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeon-crawl.toml"
-hash = "19fd19e30e8c5e4fd9cfb110dd71689456599787cf8800d0beee9e85c7956f2e"
+hash = "27c64f162fe5044b6187ebc17f7ffb85fc29a6974a75dd47783214f8c681fa37"
 metafile = true
 
 [[files]]
@@ -152,12 +152,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "7638f3bbc2c7076e448507ec9bbb4be6cba505c9c4f0c5ac9745f0301857f2af"
+hash = "06b9aa1f654074914f304c060091353dc1615675ed1caccbacfdde9332ff64f1"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.toml"
-hash = "3902d1767d0211f3677b79a2eed68fd097bab574d28e7b361368687e6133fa2a"
+hash = "5265fe0508b24f4acda169a0c17b35d846389f96cb7bdd4601bcea207bdd072b"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.toml"
-hash = "1abacd6a1330542fa0122ba2eb22383b6974d260b1d205c2e2b449ea9cf192a6"
+hash = "458698950d01959182a2f8751e0a4b0fb20cc57c41fd06033740a9cf6b0a2c35"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.toml"
-hash = "15f40f96c17a0fdf11e8bcba9bf9e50274a13d349ec574fb1fe844e2fbe110a1"
+hash = "d23793e0cfdf94447fd7faf238065d0885c8ca76e98b014b5220590e9951fe73"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.toml"
-hash = "891f8e0308b277247d66f2c2ba5e30745daef90f0ad567815d2ca47ddf7e7232"
+hash = "33d51b34a847f2b4f79dec2b2c7453fe8d039b797a5318930130836184da8d20"
 metafile = true
 
 [[files]]
