@@ -186,6 +186,11 @@ hash = "5a3d708bcbc76a60f79548a795b73d73c698c39249eba521aacebc9b3b49dcd2"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-biomes-youll-go.toml"
+hash = "39c6f4e1aaf3f8d0271d3c550a9665b1f991bd304e86a9d316d8e8c0a44eae1c"
+metafile = true
+
+[[files]]
 file = "mods/omnipotent-card.toml"
 hash = "75234d2ca8ec8b8d45159602b079336fbbf0c28d47b2ab3a32f8f4584aae2a9a"
 metafile = true
