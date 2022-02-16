@@ -61,6 +61,11 @@ hash = "13b7296159782c95a449cc900703692a43f9b2c218d850fe3880c59cc2f0bf8b"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.toml"
+hash = "050203e472b49a052aa3f3f88c5eee41ddcd4960e423c32134eb342c5cb17713"
+metafile = true
+
+[[files]]
 file = "mods/clumps.toml"
 hash = "b9b540886a354f963f3984bb6499ad6a2c245c11ba086ffdafffc940f71a3451"
 metafile = true
