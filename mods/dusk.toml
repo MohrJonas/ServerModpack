@@ -1,6 +1,6 @@
 name = "Dusk[Forge/Fabric]"
 filename = "dusk-1.18.1-1.8.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://edge.forgecdn.net/files/3638/606/dusk-1.18.1-1.8.jar"

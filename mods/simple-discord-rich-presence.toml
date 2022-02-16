@@ -1,6 +1,6 @@
 name = "Simple Discord Rich Presence"
 filename = "SimpleDiscordRichPresence-1.6.0-build.8+mc1.18.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3558/694/SimpleDiscordRichPresence-1.6.0-build.8+mc1.18.1.jar"
